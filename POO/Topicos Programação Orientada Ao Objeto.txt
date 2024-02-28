@@ -1,0 +1,9 @@
+TOPICOS POO
+
+Classes, objetos, atributos e métodos;
+
+Métodos especiais (= mágicos) do Python: __init__() e __str__();
+
+Método com parâmetros com valores default;
+
+Métodos especiais para operadores comuns como, por exemplo, +, -, *, e /;
